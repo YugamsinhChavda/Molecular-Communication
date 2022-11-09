@@ -35,6 +35,6 @@ Each of these gates are binary gates. Input gate controls whether the memory cel
 
 ![This is an image](https://user-images.githubusercontent.com/47913479/116924572-aa1b5080-ac75-11eb-9c59-253a26761caf.PNG)
 
-![This is an image](https://user-images.githubusercontent.com/47913479/116924562-a7b8f680-ac75-11eb-8382-02244fba0e9e.PNG)
+![This is an image](https://user-images.githubusercontent.com/47913479/116924577-abe51400-ac75-11eb-9189-623a2033cb61.PNG)
 
 
